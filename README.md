@@ -1,11 +1,11 @@
 # 聊天室历史书
-**版本9.11，于2022年12月9日更新。**
+**版本9.12，于2022年12月10日更新。**
 
 
 ## 分支地址
 注：发布地址可能出现不可用的情况。
 - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
-- [QiuLingYan的聊天室历史书](https://coldwind)
+- [QiuLingYan的聊天室历史书](https://coldwind.ml/chatroomhistorybook)
 
  
 过去的发布地址：
