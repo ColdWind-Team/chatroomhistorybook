@@ -1,5 +1,8 @@
-# 聊天室历史书
-**版本9.12，于2022年12月10日更新。**
+# 聊天室历史书 
+- 版本9.3_QiuLingYan_release，于2022/12/10更新
+- 这是一个由[ColdwindTeam](https://coldwind.ml)迁移的分支。
+- [原出处：HiyoTeam](https://hiyoteam.github.io/ChatroomHistoryBook/)
+- 推荐阅读[原文档](https://hiyoteam.github.io/ChatroomHistoryBook/)以获得最新版本。
 
 
 ## 分支地址
